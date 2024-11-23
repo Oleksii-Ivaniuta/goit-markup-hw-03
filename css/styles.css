@@ -33,6 +33,7 @@ ul {
   line-height: 1.5;
   text-decoration: none;
   letter-spacing: 0.02em;
+  align-items: center;
   color: #2e2f42;
 }
 
@@ -160,9 +161,9 @@ p {
   padding-left: 0;
 }
 .container {
-  width: 1440px;
-  padding-left: 120px;
-  padding-right: 120px;
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin: 0 auto;
 }
 
@@ -281,4 +282,9 @@ nav a {
 .logo-footer {
   display: inline-block;
   margin-bottom: 16px;
+}
+
+img {
+  display: block;
+  width: 100%;
 }
